@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Radio astronomer. Huge fan of Stokes Q and U.
 
 - 🔭 I’m currently working on [the Rapid ASKAP Continuum Survey (RACS)](https://research.csiro.au/racs/)
-- 🌱 I’m currently learning **Python `asyncio`**
+- 🌱 I’m currently learning **Python `asyncio`**, and dipping my toes into Rust 🦀
 - 👯 I’m looking to collaborate on **anything linearly polarised at radio frequencies**
 - 🤔 I’m looking for help with [adapting the Arrakis pipelines to more surveys or telescopes](https://github.com/AlecThomson/arrakis)
 - 💬 Ask me about **radio astronomy and large data pipelines**
