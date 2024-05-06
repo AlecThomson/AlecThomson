@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with [adapting the Arrakis pipelines to more surveys or telescopes](https://github.com/AlecThomson/arrakis)
 - 💬 Ask me about **radio astronomy and large data pipelines**
 - 📫 How to reach me: **alec.thomson@csiro.au**
-- 😄 Pronouns: He / him
 - ⚡ Fun fact: RACS detected 3 million galaxies in 300 hours. That's nearly 3 per second!
 
 ### Languages and Tools
